@@ -8,7 +8,7 @@
   </parent>
 
   <artifactId>github-api</artifactId>
-  <version>1.102-SNAPSHOT</version>
+  <version>1.103-SNAPSHOT</version>
   <name>GitHub API for Java</name>
   <url>https://github-api.kohsuke.org/</url>
   <description>GitHub API for Java</description>
